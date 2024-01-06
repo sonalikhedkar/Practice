@@ -1,4 +1,10 @@
-xLinux commands:
+git commands:
+git clone "Link"
+git add .
+git commit -m "added"
+git push
+
+Linux commands:
 
 1.sudo ->run with root user/system Account
 2.sudo apt update ->update all part of linux
